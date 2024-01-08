@@ -9,8 +9,7 @@ export default function Header(props){
                 </a>
             </div>
             <div>
-                <a href='#/cart'> Cart </a>
-                <a href='#/signin'> SignIn </a>
+                <a href='#/cart'> Cart </a> <a href='#/signin'> SignIn </a>
             </div>
         </header>
     )
