@@ -58,7 +58,22 @@ button {
   margin: 0.1rem;
   border-radius: 0.5rem;
   border: 0.1rem #404040 solid;
-  background-color: rgb(3, 163, 165);
+  background-color: rgb(2, 79, 65);
   width: 100%;
   cursor: pointer;
+}
+
+button.add {
+  background-color: rgb(140, 229, 230);
+  width: 1.5rem;
+}
+
+button.remove {
+  background-color: rgb(164, 2, 2);
+  width: 1.5rem;
+}
+
+button.badge {
+  background-color: #f04040;
+  width: 1.5rem;
 }
