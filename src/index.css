@@ -58,7 +58,7 @@ button {
   margin: 0.1rem;
   border-radius: 0.5rem;
   border: 0.1rem #404040 solid;
-  background-color: rgb(2, 79, 65);
+  background-color: rgb(6, 187, 153);
   width: 100%;
   cursor: pointer;
 }
@@ -74,7 +74,7 @@ button.remove {
 }
 
 button.badge {
-  background-color: rgb(2, 79, 65);
+  background-color: rgb(6, 187, 153);
   border: none;
   color: #ffffff;
   width: 1.5rem;
