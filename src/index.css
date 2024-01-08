@@ -48,6 +48,6 @@ a {
   align-items: center;
 }
 
-image.small{
-  max-width: 8rem;
+img.small{
+  max-height: 8rem;
 }
