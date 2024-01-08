@@ -47,3 +47,7 @@ a {
 .row.center {
   align-items: center;
 }
+
+image.small{
+  max-width: 8rem;
+}
